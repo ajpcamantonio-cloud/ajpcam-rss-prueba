@@ -7,8 +7,16 @@
     <link>https://ajpcam.wordpress.com/</link>
     <description>Feed temporal independiente para comprobar la importación RSS en Brevo. Contiene cinco entradas históricas publicadas en la categoría Noticias de AJPCAM.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 07 Nov 2026 22:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 23:49:00 +0000</lastBuildDate>
     <atom:link href="https://ajpcamantonio-cloud.github.io/ajpcam-rss-prueba/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[PRUEBA RSS] AJPCAM incorpora una noticia ficticia para verificar la detección automática de nuevas entradas</title>
+      <link>https://ajpcamantonio-cloud.github.io/ajpcam-rss-prueba/feed.xml</link>
+      <guid isPermaLink="false">urn:uuid:ajpcam-brevo-20261108-test-0006</guid>
+      <pubDate>Sat, 07 Nov 2026 23:49:00 +0000</pubDate>
+      <description>Entrada de prueba técnica, creada el 8 de noviembre de 2026. No describe un hecho real ni una novedad institucional. Su único objetivo es comprobar si Brevo detecta una nueva noticia en el feed RSS.</description>
+      <content:encoded><![CDATA[<p><strong>AVISO: NOTICIA FICTICIA DE PRUEBA.</strong></p><p>Esta entrada se ha añadido expresamente al feed temporal de AJPCAM para comprobar el proceso de detección de novedades y la generación automática de una campaña RSS en Brevo.</p><h2>Qué se está comprobando</h2><p>La prueba permite verificar si Brevo identifica este elemento como una entrada nueva mediante su GUID único y su fecha de publicación, y si lo incorpora a la campaña automática configurada para la lista de pruebas.</p><p><strong>Esta publicación no informa de ninguna decisión, actuación o acontecimiento real relacionado con los Jueces de Paz o las Oficinas de Justicia en el Municipio.</strong></p>]]></content:encoded>
+    </item>
     <item>
       <title>La Asociación de Jueces de Paz expresó sus preocupaciones ante la transformación en Oficinas de Justicia en el Municipio</title>
       <link>https://ajpcam.wordpress.com/2025/05/24/hemeroteca-confilegal-jueces-paz-ley-eficiencia-2025/</link>
