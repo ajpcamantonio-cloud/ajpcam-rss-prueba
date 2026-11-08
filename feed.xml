@@ -5,57 +5,264 @@
   <channel>
     <title>AJPCAM — Feed temporal de prueba (5 noticias)</title>
     <link>https://ajpcam.wordpress.com/</link>
-    <description>Feed temporal independiente para comprobar la importación RSS en Brevo. Contiene cinco entradas históricas publicadas en la categoría Noticias de AJPCAM.</description>
+    <description>Feed temporal independiente para comprobar la importación RSS en Brevo. Contiene las cinco entradas más recientes publicadas en el sitio WordPress de AJPCAM, con sus fechas originales de publicación.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 07 Nov 2026 23:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:31:08 GMT</lastBuildDate>
     <atom:link href="https://ajpcamantonio-cloud.github.io/ajpcam-rss-prueba/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[PRUEBA RSS] AJPCAM incorpora una noticia ficticia para verificar la detección automática de nuevas entradas</title>
-      <link>https://ajpcamantonio-cloud.github.io/ajpcam-rss-prueba/feed.xml</link>
-      <guid isPermaLink="false">urn:uuid:ajpcam-brevo-20261108-test-0006</guid>
-      <pubDate>Sat, 07 Nov 2026 23:49:00 +0000</pubDate>
-      <description>Entrada de prueba técnica, creada el 8 de noviembre de 2026. No describe un hecho real ni una novedad institucional. Su único objetivo es comprobar si Brevo detecta una nueva noticia en el feed RSS.</description>
-      <content:encoded><![CDATA[<p><strong>AVISO: NOTICIA FICTICIA DE PRUEBA.</strong></p><p>Esta entrada se ha añadido expresamente al feed temporal de AJPCAM para comprobar el proceso de detección de novedades y la generación automática de una campaña RSS en Brevo.</p><h2>Qué se está comprobando</h2><p>La prueba permite verificar si Brevo identifica este elemento como una entrada nueva mediante su GUID único y su fecha de publicación, y si lo incorpora a la campaña automática configurada para la lista de pruebas.</p><p><strong>Esta publicación no informa de ninguna decisión, actuación o acontecimiento real relacionado con los Jueces de Paz o las Oficinas de Justicia en el Municipio.</strong></p>]]></content:encoded>
+      <title>El BOCM fija los servicios mínimos de las Oficinas de Justicia en el Municipio para la huelga del 11 de noviembre</title>
+      <link>https://ajpcam.wordpress.com/2026/11/08/bocm-servicios-minimos-oficinas-justicia-municipio-huelga-11-noviembre-2026/</link>
+      <guid isPermaLink="false">urn:uuid:ajpcam-wordpress-post-259</guid>
+      <pubDate>Sun, 08 Nov 2026 19:03:58 GMT</pubDate>
+      <description>El acuerdo del Consejo de Gobierno establece un servicio mínimo de una persona funcionaria de cualquier cuerpo en las Oficinas de Justicia en el Municipio durante la huelga del 11 de noviembre de 2026.</description>
+      <content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>La disposición establece la presencia de una persona funcionaria de cualquier cuerpo en las Oficinas de Justicia en el Municipio durante la jornada de huelga convocada para el 11 de noviembre de 2026.</strong></p>
+
+
+
+<p class="wp-block-paragraph">El Boletín Oficial de la Comunidad de Madrid publicó el 6 de noviembre el Acuerdo de 4 de noviembre de 2026, del Consejo de Gobierno, por el que se fijan los servicios mínimos con ocasión de la huelga convocada para el próximo 11 de noviembre. La disposición está identificada con la referencia <strong>BOCM-20261106-36</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">Entre las medidas previstas, el acuerdo incluye expresamente a las <strong>Oficinas de Justicia en el Municipio (OJM)</strong> y establece para ellas un servicio mínimo integrado por una persona funcionaria de cualquier cuerpo.</p>
+
+
+
+<p class="wp-block-paragraph">Esta previsión incorpora a las OJM al dispositivo de servicios esenciales que deberá mantenerse durante la jornada de huelga. La medida resulta especialmente relevante para los municipios que cuentan con estas oficinas como punto de acceso de la ciudadanía a determinados servicios de la Administración de Justicia.</p>
+
+
+
+<p class="wp-block-paragraph">El acuerdo contempla también servicios mínimos para otros órganos y unidades de la Administración de Justicia. Entre ellos figuran los servicios de guardia, las actuaciones urgentes e inaplazables, determinadas actuaciones penales y de violencia de género, los servicios de Registro Civil y las actuaciones relacionadas con menores y con la tutela de derechos fundamentales. Para distintos órganos y servicios se establecen porcentajes de cobertura específicos.</p>
+
+
+
+<p class="wp-block-paragraph">La fijación de estos mínimos tiene por objeto garantizar la atención de las actuaciones que no pueden quedar desatendidas durante la huelga, sin que ello suponga la eliminación del derecho fundamental a secundarla por parte del personal no designado para prestar los servicios mínimos.</p>
+
+
+
+<h2 class="wp-block-heading">Una previsión de interés para los municipios</h2>
+
+
+
+<p class="wp-block-paragraph">La referencia expresa a las Oficinas de Justicia en el Municipio pone de relieve la importancia de mantener una cobertura mínima en estos servicios de proximidad. Su aplicación concreta deberá atender a la organización de cada oficina y a las instrucciones que correspondan para la jornada de huelga.</p>
+
+
+
+<p class="wp-block-paragraph">AJPCAM considera de interés para los municipios y para las personas usuarias de la Justicia conocer las medidas que afectan a la continuidad de los servicios prestados desde las OJM.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Fuente:</strong> Acuerdo de 4 de noviembre de 2026, del Consejo de Gobierno de la Comunidad de Madrid. BOCM de 6 de noviembre de 2026, referencia BOCM-20261106-36.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Documento oficial:</strong> <a href="https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/06/BOCM-20261106-36.PDF">Consultar el acuerdo publicado en el BOCM (PDF)</a>.</p>
+]]></content:encoded>
     </item>
     <item>
-      <title>La Asociación de Jueces de Paz expresó sus preocupaciones ante la transformación en Oficinas de Justicia en el Municipio</title>
-      <link>https://ajpcam.wordpress.com/2025/05/24/hemeroteca-confilegal-jueces-paz-ley-eficiencia-2025/</link>
-      <guid isPermaLink="false">urn:uuid:ajpcam-brevo-20261108-0001-244</guid>
-      <pubDate>Sat, 07 Nov 2026 22:55:00 +0000</pubDate>
-      <description>Hemeroteca: Confilegal recogió el 24 de mayo de 2025 las preocupaciones expresadas por la Asociación sobre información, formación, competencias y proximidad durante la transición a las OJM.</description>
-      <content:encoded><![CDATA[<p class="wp-block-paragraph"><strong>Hemeroteca · Publicación original: 24 de mayo de 2025 · Medio: Confilegal · Autora: Bárbara Hermida.</strong></p><p class="wp-block-paragraph">Confilegal publicó el 24 de mayo de 2025 un reportaje sobre las dudas y preocupaciones expresadas por la Asociación de Jueces de Paz durante la transformación de los Juzgados de Paz en Oficinas de Justicia en el Municipio, en el marco de la Ley Orgánica 1/2025.</p><h2 class="wp-block-heading">Información y formación durante la transición</h2><p class="wp-block-paragraph">La información recogió las manifestaciones de representantes de la Asociación acerca de la falta de información que, según señalaban, estaban recibiendo sobre la reorganización, el reparto de funciones y las tareas que corresponderían a los distintos profesionales dentro de las nuevas oficinas.</p><p class="wp-block-paragraph">La entidad planteó también la necesidad de formación y asesoramiento para afrontar las nuevas responsabilidades y los cambios derivados de la digitalización y de la organización del servicio.</p><h2 class="wp-block-heading">La proximidad y la atención en los municipios</h2><p class="wp-block-paragraph">Entre las preocupaciones trasladadas al medio figuraba el posible efecto de la reorganización sobre la atención presencial y cercana a los vecinos, especialmente en municipios con población envejecida o con dificultades para desplazarse a otras localidades.</p><p class="wp-block-paragraph">La Asociación expuso asimismo inquietudes sobre la prestación de servicios vinculados al Registro Civil, la distribución de competencias y los medios personales y materiales necesarios para que la transición no perjudicara a los ciudadanos.</p><h2 class="wp-block-heading">Una posición asociativa en el proceso de transformación</h2><p class="wp-block-paragraph">El reportaje constituye un documento de la posición pública que la Asociación trasladó durante la primera fase de aplicación de la reforma. Sus afirmaciones y ejemplos deben entenderse como manifestaciones atribuidas al colectivo por Confilegal, no como conclusiones verificadas de forma independiente por esta publicación.</p><p class="wp-block-paragraph"><em>Esta noticia refleja declaraciones publicadas en mayo de 2025. No constituye una actualización sobre el estado actual de las Oficinas de Justicia en el Municipio.</em></p><p class="wp-block-paragraph"><strong>Fuente original:</strong> <a href="https://confilegal.com/20250524-los-jueces-de-paz-en-el-limbo-con-la-ley-de-eficiencia-no-solo-se-pierden-competencias-se-pierde-la-proximidad/" target="_blank" rel="noopener">Confilegal — «Los jueces de paz, en el “limbo” con la Ley de Eficiencia: “no solo se pierden competencias, se pierde la proximidad”»</a></p>]]></content:encoded>
+      <title>Financiación de las Oficinas de Justicia en el Municipio: ayudas y responsabilidades en Madrid</title>
+      <link>https://ajpcam.wordpress.com/2026/11/02/financiacion-oficinas-justicia-municipio-ayudas-madrid/</link>
+      <guid isPermaLink="false">urn:uuid:ajpcam-wordpress-post-165</guid>
+      <pubDate>Mon, 02 Nov 2026 21:38:50 GMT</pubDate>
+      <description>La Comunidad de Madrid anunció en septiembre de 2026 un aumento del 24 % de las ayudas a los ayuntamientos para reforzar las OJM. Analizamos el alcance de esa información y el marco legal de los medios.</description>
+      <content:encoded><![CDATA[
+<p class="wp-block-paragraph">La financiación y la dotación material de las Oficinas de Justicia en el Municipio (OJM) son cuestiones esenciales para garantizar que la transformación de los antiguos Juzgados de Paz se traduzca en un servicio accesible y eficaz. En la Comunidad de Madrid, la información institucional publicada el 26 de septiembre de 2026 comunicó un incremento del 24 % de las ayudas destinadas a reforzar las 158 OJM.</p>
+
+
+<h2 class="wp-block-heading">El incremento anunciado por la Comunidad de Madrid</h2>
+
+
+<p class="wp-block-paragraph">Según la <a href="https://www.comunidad.madrid/noticias/2026/09/26/comunidad-madrid-aumenta-24-ayudas-reforzar-158-oficinas-justicia-municipio">nota oficial de la Comunidad de Madrid, de 26 de septiembre de 2026</a>, las subvenciones destinadas a los ayuntamientos pasan de importes comprendidos entre 310 y 2.346 euros a una horquilla de entre 385 y 2.921 euros, en función del número de habitantes.</p>
+
+
+<p class="wp-block-paragraph">La misma comunicación señala que, de las 158 OJM, 28 funcionan como oficinas exclusivas y 36 son oficinas cabecera con personal de la Administración de Justicia, mientras que las restantes 94 corresponden a municipios integrados en agrupaciones cuya prestación se organiza desde las cabeceras. También informa de la creación de 64 puestos de funcionarios y de la renovación de equipos tecnológicos y sistemas de videoconferencia.</p>
+
+
+<h2 class="wp-block-heading">Qué establece la Ley Orgánica del Poder Judicial</h2>
+
+
+<p class="wp-block-paragraph">El artículo 439 ter de la Ley Orgánica 6/1985, en la redacción introducida por la <a href="https://www.boe.es/eli/es/lo/2025/01/02/1/con">Ley Orgánica 1/2025</a>, regula la dotación de las OJM. Como regla general, las instalaciones y los medios instrumentales están a cargo del ayuntamiento respectivo, sin perjuicio de que su gestión total o parcial pueda corresponder al Ministerio o a la comunidad autónoma competente. Los sistemas y equipos informáticos son facilitados por la Administración con competencias transferidas en materia de medios de Justicia.</p>
+
+
+<p class="wp-block-paragraph">La ley contempla asimismo subvenciones a los ayuntamientos para atender los conceptos previstos en ese artículo, moduladas en función de la población. En las comunidades autónomas que tienen transferidas las funciones relativas a medios materiales y económicos de la Administración de Justicia, la subvención corresponde a la comunidad autónoma respectiva.</p>
+
+
+<h2 class="wp-block-heading">Una precisión sobre la normativa estatal de subvenciones de 2026</h2>
+
+
+<p class="wp-block-paragraph">La <a href="https://www.boe.es/eli/es/o/2026/09/17/pjc1004">Orden PJC/1004/2026, de 17 de septiembre</a>, publicada en el BOE el 28 de septiembre de 2026, fija módulos estatales para subvencionar gastos de funcionamiento de las OJM. Sin embargo, su propio acuerdo de distribución identifica las comunidades autónomas a las que se aplica y excluye expresamente a aquellas que tienen transferidas las competencias de provisión de medios materiales y económicos, entre ellas la Comunidad de Madrid.</p>
+
+
+<p class="wp-block-paragraph">Por ello, los módulos de esa orden estatal no deben presentarse como la cuantía aplicable a los ayuntamientos madrileños. Para Madrid debe atenderse al régimen autonómico y a las convocatorias, resoluciones y justificaciones de subvención que correspondan.</p>
+
+
+<h2 class="wp-block-heading">Qué conviene comprobar en cada municipio</h2>
+
+
+<ul class="wp-block-list"><li>La cuantía y condiciones de la convocatoria autonómica aplicable al ejercicio.</li><li>La población y el tramo utilizado para calcular la ayuda municipal.</li><li>La condición del municipio: oficina exclusiva, cabecera o municipio integrado en una agrupación.</li><li>Qué administración aporta las instalaciones, los medios instrumentales, los equipos informáticos y el personal, conforme al marco legal y a los acuerdos aplicables.</li><li>Los gastos subvencionables, el plazo de justificación y las obligaciones documentales de cada ayuntamiento.</li></ul>
+
+
+<p class="wp-block-paragraph">El anuncio de un incremento de las ayudas es una referencia relevante, pero no sustituye la consulta de las bases, resoluciones y documentos de concesión que determinen las condiciones concretas de cada municipio. AJPCAM seguirá el desarrollo de estas medidas y su aplicación práctica en la red madrileña de Oficinas de Justicia.</p>
+
+
+<h2 class="wp-block-heading">Fuentes oficiales</h2>
+
+
+<ul class="wp-block-list"><li><a href="https://www.comunidad.madrid/noticias/2026/09/26/comunidad-madrid-aumenta-24-ayudas-reforzar-158-oficinas-justicia-municipio">Comunidad de Madrid, 26 de septiembre de 2026: incremento del 24 % de las ayudas</a>.</li><li><a href="https://www.boe.es/eli/es/lo/2025/01/02/1/con">Ley Orgánica 1/2025</a>, artículo 1 y artículos 439 ter y siguientes de la Ley Orgánica del Poder Judicial.</li><li><a href="https://www.boe.es/eli/es/o/2026/09/17/pjc1004">Orden PJC/1004/2026, de 17 de septiembre</a>.</li></ul>
+]]></content:encoded>
     </item>
     <item>
-      <title>Informativos Telecinco recogió la posición de la Asociación madrileña en un reportaje sobre el futuro de los Jueces de Paz</title>
-      <link>https://ajpcam.wordpress.com/2023/01/28/hemeroteca-telecinco-reportaje-jueces-paz-asociacion-madrid-2023/</link>
-      <guid isPermaLink="false">urn:uuid:ajpcam-brevo-20261108-0002-243</guid>
-      <pubDate>Sat, 07 Nov 2026 22:54:00 +0000</pubDate>
-      <description>Hemeroteca: el reportaje de Noelia Camacho, emitido el 28 de enero de 2023, incluyó testimonios de jueces de paz madrileños y declaraciones del presidente de la Asociación, Miguel Arranz.</description>
-      <content:encoded><![CDATA[<p class="wp-block-paragraph"><strong>Hemeroteca · Publicación original: 28 de enero de 2023 · Medio: Informativos Telecinco · Autora: Noelia Camacho.</strong></p><p class="wp-block-paragraph">Informativos Telecinco publicó el 28 de enero de 2023 un reportaje sobre la trayectoria de los Jueces de Paz y el debate abierto entonces acerca de la transformación de la justicia municipal. La pieza incorporó testimonios de titulares de juzgados de paz de distintos municipios y recogió la posición de la Asociación de Jueces de Paz de Madrid a través de su entonces presidente, Miguel Arranz.</p><h2 class="wp-block-heading">Testimonios de jueces de paz de la Comunidad de Madrid</h2><p class="wp-block-paragraph">El reportaje mostró la experiencia de José María García Carrasco, juez de paz de Boadilla del Monte, y de César de la Serna, juez de paz de Valdetorres de Jarama. A través de sus testimonios describió tareas relacionadas con el Registro Civil, la conciliación y la atención a los vecinos, así como las condiciones materiales y económicas en las que desarrollaban su actividad.</p><h2 class="wp-block-heading">La posición de la Asociación</h2><p class="wp-block-paragraph">Miguel Arranz trasladó la preocupación de la Asociación ante la reforma que se debatía en aquel momento. Entre las reivindicaciones recogidas figuraban la mejora de las retribuciones, la ampliación de atribuciones, la modernización de los juzgados y, especialmente, la continuidad de la figura del juez de paz.</p><blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Que siga existiendo la figura del juez de paz porque hace una labor imprescindible, necesaria y cercana a los vecinos.</p></blockquote><p class="wp-block-paragraph">La frase resume la posición que el reportaje atribuyó al presidente de la Asociación en enero de 2023.</p><h2 class="wp-block-heading">Un documento audiovisual de la etapa previa a la Ley Orgánica 1/2025</h2><p class="wp-block-paragraph">El reportaje es una referencia de hemeroteca para conocer el debate público anterior a la aprobación de la Ley Orgánica 1/2025 y conservar los testimonios de jueces de paz madrileños y las reivindicaciones expresadas entonces por su Asociación.</p><p class="wp-block-paragraph"><em>Las cifras, cargos y previsiones mencionados en el reportaje corresponden a enero de 2023. Las valoraciones sobre la reforma se presentan como declaraciones de sus protagonistas en aquel momento.</em></p><p class="wp-block-paragraph"><strong>Fuente original:</strong> <a href="https://www.telecinco.es/noticias/espana/20230128/jueces-paz-peligro-extincion_18_08577209.html" target="_blank" rel="noopener">Informativos Telecinco — «Jueces de paz, más de 150 años de historia en peligro de extinción»</a></p>]]></content:encoded>
+      <title>Las 158 Oficinas de Justicia en el Municipio de Madrid: organización territorial y agrupaciones</title>
+      <link>https://ajpcam.wordpress.com/2026/11/02/158-oficinas-justicia-municipio-madrid-organizacion-territorial/</link>
+      <guid isPermaLink="false">urn:uuid:ajpcam-wordpress-post-164</guid>
+      <pubDate>Mon, 02 Nov 2026 21:38:43 GMT</pubDate>
+      <description>La red madrileña se articula en 21 Tribunales de Instancia, 158 Oficinas de Justicia y agrupaciones con municipios cabecera y municipios agrupados. Explicamos cómo interpretar esas cifras.</description>
+      <content:encoded><![CDATA[
+<p class="wp-block-paragraph">La organización territorial de la Justicia municipal en la Comunidad de Madrid ha cambiado con la implantación de los Tribunales de Instancia y las Oficinas de Justicia en el Municipio (OJM). Para comprender el nuevo mapa es necesario distinguir tres realidades: el Tribunal de Instancia, la oficina que presta servicio en cada municipio y las agrupaciones de oficinas.</p>
+
+
+<h2 class="wp-block-heading">21 Tribunales de Instancia y 158 Oficinas de Justicia</h2>
+
+
+<p class="wp-block-paragraph">La información institucional de la Comunidad de Madrid señala que, desde el 1 de enero de 2026, la organización judicial regional se articula en 21 Tribunales de Instancia y una red de 158 Oficinas de Justicia en el Municipio. Los Tribunales de Instancia constituyen la estructura judicial del partido judicial; las OJM mantienen la prestación de servicios de Justicia en las localidades que no cuentan con sede de Tribunal de Instancia.</p>
+
+
+<h2 class="wp-block-heading">Cómo se distribuyen las 158 oficinas</h2>
+
+
+<p class="wp-block-paragraph">Según los datos publicados por la Comunidad de Madrid, la red se distribuye del siguiente modo:</p>
+
+
+<ul class="wp-block-list"><li><strong>28 oficinas exclusivas:</strong> prestan servicio a su propio municipio.</li><li><strong>36 oficinas cabecera:</strong> son las sedes de las agrupaciones y cuentan con personal de la Administración de Justicia.</li><li><strong>94 municipios agrupados:</strong> reciben el servicio mediante la organización de la agrupación correspondiente.</li></ul>
+
+
+<p class="wp-block-paragraph">Las cifras suman 158 localidades atendidas: 28 oficinas exclusivas, 36 municipios cabecera y 94 municipios integrados en agrupaciones. La referencia a 36 agrupaciones describe la estructura de atención compartida, no 36 municipios adicionales a los 158.</p>
+
+
+<h2 class="wp-block-heading">Qué significa ser municipio cabecera</h2>
+
+
+<p class="wp-block-paragraph">La oficina cabecera es la sede desde la que se organiza la atención de una agrupación. El personal de la Administración de Justicia adscrito a esa oficina presta servicio también en las oficinas de los municipios integrados, conforme al régimen de atención establecido por la Administración competente.</p>
+
+
+<p class="wp-block-paragraph">La regulación estatal establece que las agrupaciones deben respetar los requisitos legales, entre ellos que los municipios sean limítrofes y pertenezcan al mismo partido judicial. La creación o modificación de una agrupación debe apoyarse en la resolución o disposición administrativa correspondiente; no puede deducirse únicamente de la proximidad geográfica.</p>
+
+
+<h2 class="wp-block-heading">Partido judicial, Tribunal de Instancia y OJM no son lo mismo</h2>
+
+
+<p class="wp-block-paragraph">El partido judicial delimita el ámbito territorial de la estructura judicial. El Tribunal de Instancia es el órgano judicial correspondiente a ese ámbito. La OJM es una unidad administrativa de prestación de servicios en el municipio. Una oficina cabecera puede atender a varios municipios, pero ello no convierte a todos ellos en sede del Tribunal de Instancia ni altera por sí solo su adscripción territorial.</p>
+
+
+<h2 class="wp-block-heading">Dónde consultar la organización de cada municipio</h2>
+
+
+<p class="wp-block-paragraph">Para comprobar la oficina que corresponde a una localidad, su condición de cabecera o municipio agrupado y el partido judicial de referencia, debe consultarse la información territorial oficial y las resoluciones de constitución o modificación aplicables. AJPCAM recomienda no elaborar agrupaciones por inferencia ni trasladar datos de mapas antiguos sin verificar su vigencia.</p>
+
+
+<ul class="wp-block-list"><li><a href="https://www.comunidad.madrid/justicia/organizacion-estructura-judicial-0">Comunidad de Madrid: organización y estructura judicial</a>.</li><li><a href="https://www.comunidad.madrid/oficinas-justicia-municipio">Comunidad de Madrid: Oficinas de Justicia en el Municipio</a>.</li><li><a href="https://www.mjusticia.gob.es/es/servicio-justicia/organizacion-justicia/cartografia-judicial/secretarias-agrupaciones">Ministerio de Justicia: agrupaciones de Oficinas de Justicia en el Municipio</a>.</li><li><a href="https://www.boe.es/eli/es/rd/2025/06/24/530">Real Decreto 530/2025</a>, sobre organización de las oficinas y agrupaciones.</li></ul>
+]]></content:encoded>
     </item>
     <item>
-      <title>La Comunidad de Madrid se reunió con representantes de la Asociación de Jueces de Paz en octubre de 2019</title>
-      <link>https://ajpcam.wordpress.com/2019/10/09/hemeroteca-reunion-comunidad-madrid-asociacion-jueces-paz-2019/</link>
-      <guid isPermaLink="false">urn:uuid:ajpcam-brevo-20261108-0003-242</guid>
-      <pubDate>Sat, 07 Nov 2026 22:53:00 +0000</pubDate>
-      <description>Hemeroteca: la Comunidad de Madrid informó de la reunión del consejero Enrique López con Miguel Arranz y José María García, presidente y vicepresidente de la Asociación.</description>
-      <content:encoded><![CDATA[<p class="wp-block-paragraph"><strong>Hemeroteca · Publicación original: 9 de octubre de 2019 · Fuente: Comunidad de Madrid · Nota institucional.</strong></p><p class="wp-block-paragraph">El consejero de Justicia, Interior y Víctimas de la Comunidad de Madrid, Enrique López, se reunió el 9 de octubre de 2019 con Miguel Arranz y José María García, presidente y vicepresidente, respectivamente, de la Asociación de Jueces de Paz de la Comunidad de Madrid.</p><h2 class="wp-block-heading">Reconocimiento de la función de los Juzgados de Paz</h2><p class="wp-block-paragraph">Según la nota oficial, durante el encuentro el consejero puso en valor el trabajo de estos órganos judiciales, presentes en los municipios que no cuentan con juzgados de Primera Instancia. López destacó su cercanía a la ciudadanía y su papel como ejemplo de colaboración institucional entre la Comunidad de Madrid y los ayuntamientos.</p><h2 class="wp-block-heading">La organización descrita en 2019</h2><p class="wp-block-paragraph">La información institucional indicaba que entonces existían 158 Juzgados de Paz en la Comunidad de Madrid. De ellos, 47 —situados en los municipios de mayor tamaño— contaban con plantillas dependientes de la Consejería de Justicia, con un total de 116 personas entre tramitadores, gestores y personal de auxilio judicial. En el resto, el personal era aportado por los ayuntamientos.</p><p class="wp-block-paragraph">La nota señalaba asimismo que las corporaciones municipales facilitaban las instalaciones y los medios instrumentales necesarios para el funcionamiento de los juzgados.</p><h2 class="wp-block-heading">Un antecedente de interlocución institucional</h2><p class="wp-block-paragraph">La reunión acredita la interlocución mantenida por la Asociación con el Gobierno regional y permite documentar la presencia de sus representantes en un encuentro institucional dedicado a la justicia de proximidad.</p><p class="wp-block-paragraph"><em>Las cifras y la estructura administrativa descritas corresponden a octubre de 2019. No deben interpretarse como datos actuales tras las reformas posteriores de la organización judicial.</em></p><p class="wp-block-paragraph"><strong>Fuente original:</strong> <a href="https://www.comunidad.madrid/notas-prensa/2019/10/09/lopez-reune-asociacion-jueces-paz-comunidad-madrid" target="_blank" rel="noopener">Comunidad de Madrid — «López se reúne con la Asociación de Jueces de Paz de la Comunidad de Madrid»</a></p>]]></content:encoded>
+      <title>Qué funciones tienen actualmente los Jueces y Juezas de Paz y qué servicios presta la OJM</title>
+      <link>https://ajpcam.wordpress.com/2026/11/02/funciones-jueces-paz-servicios-oficina-justicia-municipio/</link>
+      <guid isPermaLink="false">urn:uuid:ajpcam-wordpress-post-163</guid>
+      <pubDate>Mon, 02 Nov 2026 21:38:40 GMT</pubDate>
+      <description>Una guía para distinguir las funciones legalmente atribuidas al juez de paz de los servicios administrativos y de apoyo que presta la Oficina de Justicia en el Municipio.</description>
+      <content:encoded><![CDATA[
+<p class="wp-block-paragraph">La transformación de los antiguos Juzgados de Paz en Oficinas de Justicia en el Municipio hace especialmente importante explicar quién realiza cada actuación. La persona titular del juzgado de paz y la oficina municipal forman parte del servicio de Justicia de proximidad, pero no desempeñan la misma función ni tienen las mismas atribuciones.</p>
+
+
+<h2 class="wp-block-heading">1. Las funciones del juez o jueza de paz</h2>
+
+
+<p class="wp-block-paragraph">El juez o la jueza de paz ejerce las funciones que le atribuyen la Ley Orgánica del Poder Judicial y las demás normas procesales y sustantivas aplicables. La Ley Orgánica 1/2025 no convierte a la OJM en un órgano jurisdiccional ni transfiere a su personal la potestad de juzgar: su disposición transitoria sexta prevé que el juez o jueza de paz de cada municipio continúe ejerciendo las funciones legalmente atribuidas con la asistencia de la oficina correspondiente.</p>
+
+
+<p class="wp-block-paragraph">El alcance de cada actuación debe comprobarse en la norma vigente que la regula. No es correcto atribuir de forma genérica a todos los jueces de paz competencias que hayan sido modificadas, suprimidas o reservadas a otros órganos judiciales por reformas posteriores.</p>
+
+
+<h2 class="wp-block-heading">2. La asistencia que presta la Oficina de Justicia en el Municipio</h2>
+
+
+<p class="wp-block-paragraph">El artículo 439 quater de la Ley Orgánica del Poder Judicial identifica, entre los servicios de las OJM, la asistencia al juez o jueza de paz en el ejercicio de sus funciones, la práctica de actos de comunicación procesal con personas residentes en el municipio o municipios atendidos cuando no se hayan podido practicar electrónicamente y los servicios que se establezcan para ellas como oficinas colaboradoras del Registro Civil.</p>
+
+
+<p class="wp-block-paragraph">La ley prevé además que, cuando existan herramientas informáticas y medios materiales adecuados, puedan desarrollarse actuaciones procesales por videoconferencia u otros sistemas de telepresencia. Entre ellas se contemplan actuaciones en conciliaciones y expedientes de jurisdicción voluntaria, en los términos previstos legalmente.</p>
+
+
+<h2 class="wp-block-heading">3. Servicios de atención y colaboración</h2>
+
+
+<p class="wp-block-paragraph">La OJM actúa como punto de acceso local a determinados servicios de la Administración de Justicia. La información publicada por la Comunidad de Madrid recoge, entre otros, servicios relacionados con el Registro Civil, la asistencia jurídica gratuita y la realización de trámites y actuaciones de apoyo. La disponibilidad concreta puede variar según la organización de cada oficina, sus medios y las normas aplicables.</p>
+
+
+<h2 class="wp-block-heading">4. Tres distinciones que conviene mantener</h2>
+
+
+<ul class="wp-block-list"><li><strong>Juez o jueza de paz:</strong> ejerce las funciones jurisdiccionales y demás atribuciones que la ley le encomienda.</li><li><strong>Oficina de Justicia en el Municipio:</strong> unidad administrativa que presta servicios a la ciudadanía y asiste al juez o jueza de paz.</li><li><strong>Personal de la oficina:</strong> desarrolla las tareas administrativas, procesales y de atención que corresponden a su puesto y a la organización de la oficina; no asume por ello la potestad jurisdiccional.</li></ul>
+
+
+<p class="wp-block-paragraph">Esta separación permite informar correctamente a la ciudadanía, a los ayuntamientos y a los propios profesionales, evitando atribuir a la oficina decisiones que corresponden al juez o a otros órganos judiciales.</p>
+
+
+<h2 class="wp-block-heading">Fuentes normativas e institucionales</h2>
+
+
+<ul class="wp-block-list"><li><a href="https://www.boe.es/eli/es/lo/2025/01/02/1/con">Ley Orgánica 1/2025</a>, especialmente artículos 439 ter, 439 quater y 439 quinquies de la Ley Orgánica del Poder Judicial y disposición transitoria sexta.</li><li><a href="https://www.comunidad.madrid/oficinas-justicia-municipio">Comunidad de Madrid: servicios de las Oficinas de Justicia en el Municipio</a>.</li><li><a href="https://www.boe.es/eli/es/rd/2025/06/24/530">Real Decreto 530/2025, de 24 de junio</a>, sobre disposiciones organizativas y estatutarias del personal.</li></ul>
+<p class="wp-block-paragraph"><strong>Crédito de la imagen:</strong> Nalex.25, «Balanza justicia.jpg», 2017, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Balanza_justicia.jpg">Fuente y condiciones de reutilización</a>.</p>]]></content:encoded>
     </item>
     <item>
-      <title>La Asociación de Jueces de Paz de Madrid y Crowe suscribieron un acuerdo para la defensa de la protección social del colectivo</title>
-      <link>https://ajpcam.wordpress.com/2019/09/06/hemeroteca-acuerdo-asociacion-jueces-paz-crowe-2019/</link>
-      <guid isPermaLink="false">urn:uuid:ajpcam-brevo-20261108-0004-241</guid>
-      <pubDate>Sat, 07 Nov 2026 22:52:00 +0000</pubDate>
-      <description>Hemeroteca: Crowe informó el 6 de septiembre de 2019 de un acuerdo con la Asociación madrileña para la defensa de los derechos de protección social de los jueces de paz.</description>
-      <content:encoded><![CDATA[<p class="wp-block-paragraph"><strong>Hemeroteca · Publicación original: 6 de septiembre de 2019 · Fuente: Crowe España · Tipo: noticia corporativa.</strong></p><p class="wp-block-paragraph">La Asociación de Jueces de Paz de España de la Comunidad Autónoma de Madrid y la firma Crowe suscribieron un acuerdo orientado a la defensa de los derechos de protección social del colectivo frente a las Administraciones Públicas. La comunicación fue publicada por Crowe el 6 de septiembre de 2019.</p><h2 class="wp-block-heading">La protección social de los jueces de paz</h2><p class="wp-block-paragraph">En su comunicación, Crowe expuso la preocupación de la Asociación por la situación personal y de protección social de los jueces de paz, que vinculaba al régimen aplicable y a la evolución de las disposiciones legales y reglamentarias.</p><p class="wp-block-paragraph">La entidad consideraba que el marco existente situaba al colectivo en una posición de desprotección y apelaba a que los poderes públicos corrigieran esa situación. La nota citaba expresamente el artículo 41 de la Constitución Española, relativo al mantenimiento de un régimen público de Seguridad Social.</p><h2 class="wp-block-heading">Una actuación de colaboración institucional</h2><p class="wp-block-paragraph">El acuerdo con Crowe constituye una actuación documentada de colaboración para abordar y defender esta cuestión ante las Administraciones Públicas. La información corporativa no detalla en la página consultada actuaciones procesales concretas ni resultados posteriores, por lo que no cabe atribuirle efectos jurídicos o administrativos que no estén acreditados.</p><p class="wp-block-paragraph">Su recuperación en esta hemeroteca permite dejar constancia de que la actividad de la Asociación también comprendía la defensa de los derechos de protección social de sus asociados.</p><p class="wp-block-paragraph"><strong>Fuente original:</strong> <a href="https://www.crowe.com/es/news/la-asociacion-de-jueces-de-paz" target="_blank" rel="noopener">Crowe España — «La Asociación de Jueces de Paz de España de la Comunidad Autónoma de Madrid y Crowe suscriben un acuerdo»</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>La Asociación de Jueces de Paz de Madrid reclamó en 2018 mejores retribuciones, medios y competencias</title>
-      <link>https://ajpcam.wordpress.com/2018/04/22/hemeroteca-asociacion-jueces-paz-reivindicaciones-2018/</link>
-      <guid isPermaLink="false">urn:uuid:ajpcam-brevo-20261108-0005-240</guid>
-      <pubDate>Sat, 07 Nov 2026 22:51:00 +0000</pubDate>
-      <description>Hemeroteca: el reportaje de elDiario.es del 22 de abril de 2018 recogió las reivindicaciones de la Asociación madrileña y las declaraciones de su entonces presidente, Félix Gallego.</description>
-      <content:encoded><![CDATA[<p class="wp-block-paragraph"><strong>Hemeroteca · Publicación original: 22 de abril de 2018 · Medio: elDiario.es · Autores: Marta Barandela y Marcos Pinheiro.</strong></p><p class="wp-block-paragraph">Un reportaje publicado por elDiario.es el 22 de abril de 2018 recogió las reivindicaciones que la Asociación de Jueces de Paz de la Comunidad de Madrid había trasladado al Ministerio de Justicia y a la Comisión de Justicia del Congreso. La información incluyó declaraciones de Félix Gallego, entonces presidente de la entidad.</p><h2 class="wp-block-heading">Retribuciones y módulos de población</h2><p class="wp-block-paragraph">La Asociación reclamaba una revisión de las cantidades asignadas a los jueces de paz y de los módulos utilizados para calcularlas. Su planteamiento era que los tramos existentes no reflejaban adecuadamente las diferencias de población y de carga de trabajo entre municipios, especialmente en localidades que habían experimentado un crecimiento demográfico importante.</p><p class="wp-block-paragraph">El reportaje recogía también la petición de revisar la disponibilidad que exige el cargo, incluidas actuaciones urgentes relacionadas con el Registro Civil durante fines de semana y festivos.</p><h2 class="wp-block-heading">Medios y competencias</h2><p class="wp-block-paragraph">La entidad defendía asimismo un refuerzo de los medios materiales y humanos de los Juzgados de Paz y la ampliación de sus competencias. Según la posición trasladada entonces, una justicia municipal mejor dotada podía contribuir a atender a la ciudadanía de forma cercana y a aliviar la carga de los juzgados de primera instancia.</p><h2 class="wp-block-heading">Un antecedente de la actividad reivindicativa</h2><p class="wp-block-paragraph">La publicación constituye un documento de la actividad pública de la Asociación y de las cuestiones que planteaba ante las instituciones en 2018: reconocimiento de la dedicación, adecuación de las retribuciones y fortalecimiento de la justicia de proximidad.</p><p class="wp-block-paragraph"><em>Las declaraciones, cantidades y referencias organizativas de esta noticia corresponden al contexto de 2018 y no describen necesariamente la situación actual.</em></p><p class="wp-block-paragraph"><strong>Fuente original:</strong> <a href="https://www.eldiario.es/politica/jueces-paz_1_2168532.html" target="_blank" rel="noopener">elDiario.es — «La justicia de proximidad también se rebela contra Catalá: los jueces de Paz se sienten abandonados»</a></p>]]></content:encoded>
+      <title>De los Juzgados de Paz a las Oficinas de Justicia en el Municipio: qué cambia y qué permanece</title>
+      <link>https://ajpcam.wordpress.com/2026/11/02/juzgados-de-paz-oficinas-justicia-municipio-cambios/</link>
+      <guid isPermaLink="false">urn:uuid:ajpcam-wordpress-post-162</guid>
+      <pubDate>Mon, 02 Nov 2026 21:38:33 GMT</pubDate>
+      <description>La Ley Orgánica 1/2025 transforma los antiguos Juzgados de Paz en Oficinas de Justicia en el Municipio, pero mantiene la figura del juez o jueza de paz y sus funciones legalmente atribuidas.</description>
+      <content:encoded><![CDATA[
+<p class="wp-block-paragraph">La implantación de las Oficinas de Justicia en el Municipio (OJM) constituye uno de los cambios organizativos más relevantes de la Administración de Justicia de proximidad. La reforma, introducida por la <a href="https://www.boe.es/eli/es/lo/2025/01/02/1/con">Ley Orgánica 1/2025, de 2 de enero</a>, transforma los antiguos Juzgados de Paz en una nueva estructura administrativa destinada a acercar servicios judiciales a la ciudadanía.</p>
+
+
+<h2 class="wp-block-heading">Una transformación organizativa, no la desaparición del juez de paz</h2>
+
+
+<p class="wp-block-paragraph">La distinción esencial es que la Oficina de Justicia en el Municipio es una unidad de prestación de servicios y apoyo, mientras que el juez o la jueza de paz conserva las funciones que las leyes le atribuyen. La disposición transitoria sexta de la Ley Orgánica 1/2025 establece expresamente que, al constituirse el Tribunal de Instancia correspondiente, el Juzgado de Paz se transforma en OJM y el juez o jueza de paz continúa ejerciendo sus funciones con la asistencia de la Oficina.</p>
+
+
+<p class="wp-block-paragraph">Por tanto, no deben confundirse la función jurisdiccional atribuida legalmente a la persona titular del juzgado de paz y las tareas administrativas y de atención que corresponden a la OJM. La oficina no se convierte por sí misma en un órgano jurisdiccional ni sustituye la titularidad judicial.</p>
+
+
+<h2 class="wp-block-heading">Qué servicios presta la nueva oficina</h2>
+
+
+<p class="wp-block-paragraph">Los artículos 439 ter y 439 quater de la Ley Orgánica del Poder Judicial, en la redacción introducida por la reforma, regulan estas oficinas. Entre sus cometidos se encuentran la asistencia al juez o jueza de paz en el ejercicio de sus funciones legales, la práctica de actos de comunicación procesal que no hayan podido realizarse por medios electrónicos y los servicios que les correspondan como oficinas colaboradoras del Registro Civil.</p>
+
+
+<p class="wp-block-paragraph">La ley contempla también, cuando lo permitan los medios materiales y tecnológicos, la realización de actuaciones procesales mediante videoconferencia u otros sistemas de presencia a distancia, incluidas actuaciones relacionadas con conciliaciones y expedientes de jurisdicción voluntaria. El catálogo concreto debe interpretarse conforme a la legislación y a las disposiciones de desarrollo aplicables.</p>
+
+
+<h2 class="wp-block-heading">La implantación en la Comunidad de Madrid</h2>
+
+
+<p class="wp-block-paragraph">La Comunidad de Madrid informa de una red de 158 Oficinas de Justicia en el Municipio vinculadas a 21 Tribunales de Instancia desde el 1 de enero de 2026. La organización territorial combina oficinas de atención exclusiva, oficinas cabecera y municipios integrados en agrupaciones. Esta estructura busca mantener la proximidad del servicio sin confundir la sede de una agrupación con todos los municipios a los que presta atención.</p>
+
+
+<p class="wp-block-paragraph">La información institucional y territorial puede consultarse en el portal de la <a href="https://www.comunidad.madrid/oficinas-justicia-municipio">Comunidad de Madrid sobre las Oficinas de Justicia en el Municipio</a> y en su página de <a href="https://www.comunidad.madrid/justicia/organizacion-estructura-judicial-0">organización y estructura judicial</a>.</p>
+
+
+<h2 class="wp-block-heading">Una etapa que exige información y seguimiento</h2>
+
+
+<p class="wp-block-paragraph">La transformación plantea cuestiones prácticas sobre medios personales y materiales, coordinación institucional, atención a la ciudadanía, funcionamiento de las agrupaciones y continuidad de las funciones de los jueces y juezas de paz. Para analizar cada municipio con rigor es necesario acudir a las disposiciones oficiales que determinen su oficina, su posible agrupación y el régimen concreto de prestación del servicio.</p>
+
+
+<p class="wp-block-paragraph">AJPCAM seguirá recopilando y difundiendo información normativa e institucional sobre esta evolución, diferenciando siempre las competencias judiciales de las funciones administrativas de las Oficinas de Justicia en el Municipio.</p>
+
+
+<h2 class="wp-block-heading">Normativa y fuentes oficiales</h2>
+
+
+<ul class="wp-block-list"><li><a href="https://www.boe.es/eli/es/lo/2025/01/02/1/con">Ley Orgánica 1/2025, de 2 de enero</a>, especialmente artículo 1 y disposición transitoria sexta.</li><li><a href="https://www.comunidad.madrid/oficinas-justicia-municipio">Comunidad de Madrid: Oficinas de Justicia en el Municipio</a>.</li><li><a href="https://www.mjusticia.gob.es/es/JusticiaEspana/NMOJ">Ministerio de Justicia: nuevo modelo organizativo de la Justicia</a>.</li></ul>
+<p class="wp-block-paragraph"><strong>Crédito de la imagen:</strong> Luis García (Zaqarbal), «Juzgados Plaza Castilla (Madrid) 01.jpg», 2006, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Juzgados_Plaza_Castilla_(Madrid)_01.jpg">Fuente y condiciones de reutilización</a>. La fotografía muestra el edificio de juzgados de Plaza de Castilla; no representa una OJM.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
